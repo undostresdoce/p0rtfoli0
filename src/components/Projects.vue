@@ -44,26 +44,24 @@ onMounted(() => {
   })
 })
 
+
+
+//corregir esto por mis cosos*
 const projects = [
   {
-    title: 'Landing animada con GSAP',
-    description: 'Scroll reactivo, gradientes animados, SVG interactivo y defensa académica con narrativa visual.',
-    link: 'https://github.com/camila/landing-gsap',
+    title: 'Landing 1',
+    description: '--',
+    link: 'https://github.com/undostresdoce/',
   },
   {
-    title: 'Suite de testing con Cypress',
-    description: 'Login, CRUD y navegación protegida con documentación clara y validación de flujos críticos.',
-    link: 'https://github.com/camila/test-suite',
+    title: 'Landing 2',
+    description: '-',
+    link: 'https://github.com/undostresdoce/',
   },
   {
-    title: 'Portfolio modular con Vue 3',
-    description: 'Componentes accesibles, animaciones con Anime.js, estructura defendible y despliegue optimizado.',
-    link: 'https://github.com/camila/vue-portfolio',
-  },
-  {
-    title: 'Dashboard con Firebase y Pinia',
-    description: 'Gestión de usuarios, autenticación segura, estado global y rutas protegidas con defensa técnica.',
-    link: 'https://github.com/camila/firebase-dashboard',
+    title: 'Landing 3',
+    description: '',
+    link: 'https://github.com/undostresdoce',
   },
 ]
 </script>

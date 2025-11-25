@@ -1,8 +1,9 @@
 <template>
   <section id="hero" class="hero text-center py-20 text-white bg-gradient-to-r from-purple-600 via-pink-500 to-red-500 dark:from-gray-900 dark:to-gray-800">
     <h1 class="title text-5xl font-bold">Camila Belén </h1>
-    <p class="subtitle text-xl mt-4">Frontend Creativo con Vue 3</p>
-    <p class="final-phrase text-lg mt-10 opacity-0">Cada componente cuenta una historia defendible ✨</p>
+    <p class="subtitle text-xl mt-4"> - </p>
+    <p class="final-phrase text-lg mt-10 opacity-0">Soy Camila, egresada de Desarrollo Front-End Trainee de Talento Digital. Apasionada por la innovación, la tecnología y el aprendizaje continuo como herramientas para mejorar la calidad de vida de las personas. Actualmente dedicada a potenciar pequeños emprendimientos a través de asesoramiento en marketing y gestión de redes sociales. Busco desempeñarme en organizaciones con sentido social, donde pueda aplicar mis habilidades y creatividad para contribuir al bienestar y desarrollo comunitario e inclusivo.
+    </p>
   </section>
 </template>
 
